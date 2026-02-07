@@ -1,50 +1,114 @@
-Kamu adalah brand strategist dan conversion copywriter yang berpengalaman membuat website jasa profesional.
+# Fachri — Website Bisnis yang Membuat Usaha Terlihat Profesional & Dipercaya
 
-Aku adalah web developer bernama Fachri.
-Target klienku adalah:
-- bisnis travel
-- jasa
-- UMKM
-- supplier kecil
-yang ingin terlihat profesional dan dipercaya oleh calon pelanggan atau buyer.
+Saya membantu bisnis travel, jasa, UMKM, dan supplier kecil memiliki website yang membuat calon pelanggan yakin, percaya, dan mau menghubungi Anda.
 
-Tujuan website ini adalah:
-- membuat orang yang aku hubungi lewat DM atau email
-- merasa yakin bahwa aku profesional
-- dan mau menghubungiku untuk bikin website.
+Website bukan sekadar tampilan.  
+Website adalah alat untuk membangun kredibilitas dan mendatangkan peluang bisnis.
 
-Aku TIDAK mau terlihat seperti:
-- mahasiswa
-- pemula
-- freelancer murahan
-- atau orang yang cuma “bisa ngoding”.
+---
 
-Aku ingin terlihat sebagai:
-- partner digital
-- pembuat website bisnis
-- orang yang paham kebutuhan usaha, bukan cuma teknologi.
+## Masalah yang Sering Dialami Banyak Bisnis
 
-Buatkan aku struktur dan teks website yang terdiri dari:
+Banyak pemilik usaha sebenarnya sudah punya produk dan layanan yang bagus.  
+Tapi kehilangan calon pelanggan karena tampilan digital mereka tidak meyakinkan.
 
-1. Headline utama yang langsung menyampaikan nilai bisnisku
-2. Subheadline yang menjelaskan siapa yang aku bantu dan apa hasilnya
-3. Section “Masalah yang sering dialami bisnis”
-4. Section “Solusi yang aku tawarkan”
-5. Section “Jenis website yang aku buat”
-6. Section “Kenapa pilih saya”
-7. Section “Contoh hasil / portfolio” (boleh dalam bentuk placeholder)
-8. Call To Action yang membuat orang mau menghubungi saya
+Beberapa masalah yang sering terjadi:
 
-Gunakan bahasa Indonesia yang:
-- profesional
-- sederhana
-- meyakinkan
-- tidak terdengar seperti iklan murahan
-- dan tidak seperti anak kuliahan.
+- Website terlihat tidak profesional atau seperti proyek asal jadi  
+- Tidak jelas siapa bisnisnya, apa layanannya, dan bagaimana cara order  
+- Calon pelanggan ragu untuk menghubungi karena tampilannya tidak meyakinkan  
+- Hanya mengandalkan WhatsApp atau Instagram tanpa sistem yang rapi  
+- Sulit meyakinkan buyer, supplier, atau mitra bisnis
 
-Fokus pada:
-- kepercayaan
-- kesan profesional
-- dan manfaat bisnis bagi klien.
+Padahal, di era sekarang, website adalah kesan pertama bisnis Anda.
 
-Hasilkan dalam bentuk teks siap pakai untuk website.
+---
+
+## Solusi yang Saya Tawarkan
+
+Saya membangun website yang berfungsi sebagai **alat kepercayaan dan penjualan**, bukan sekadar pajangan online.
+
+Yang saya buat bukan hanya “website jadi”, tapi:
+
+- Struktur yang jelas dan mudah dipahami calon pelanggan  
+- Tampilan yang menunjukkan bahwa bisnis Anda serius dan profesional  
+- Copywriting yang menjelaskan nilai dan keunggulan usaha Anda  
+- Website yang siap digunakan untuk pitching, iklan, dan kerja sama
+
+Tujuan utamanya satu:  
+**membantu bisnis Anda terlihat layak dipercaya.**
+
+---
+
+## Jenis Website yang Saya Buat
+
+Saya fokus pada website untuk bisnis yang ingin terlihat rapi, serius, dan siap berkembang:
+
+- Website Travel & Tour  
+- Company Profile Jasa  
+- Website UMKM & Brand Lokal  
+- Website Supplier & Distributor  
+- Landing Page Penawaran Produk atau Layanan
+
+Semua website saya rancang agar:
+- mudah dipahami
+- cepat diakses
+- dan terlihat profesional
+
+---
+
+## Kenapa Pilih Saya
+
+Banyak orang bisa membuat website.  
+Yang jarang adalah yang memahami **fungsi bisnis dari website itu sendiri**.
+
+Saya bekerja bukan sebagai “tukang web”, tapi sebagai partner digital Anda.
+
+Yang Anda dapatkan:
+
+- Pendekatan berbasis kebutuhan bisnis  
+- Bukan template asal pakai  
+- Struktur dan pesan yang disusun untuk meyakinkan calon pelanggan  
+- Komunikasi yang jelas dan profesional  
+- Website yang siap dipakai untuk closing, bukan hanya dipajang
+
+---
+
+## Contoh Hasil (Portfolio)
+
+Beberapa tipe website yang saya bangun:
+
+> **Website Travel**  
+Landing page yang menampilkan paket, keunggulan, dan form pemesanan
+
+> **Website Jasa**  
+Company profile dengan struktur yang rapi dan meyakinkan
+
+> **Website UMKM**  
+Website brand yang membuat produk terlihat lebih bernilai
+
+> **Website Supplier**  
+Website yang memudahkan buyer memahami produk dan menghubungi bisnis
+
+*(Link dan demo bisa ditambahkan di sini)*
+
+---
+
+## Siap Membuat Bisnis Anda Terlihat Lebih Profesional?
+
+Jika Anda:
+- ingin terlihat lebih serius di mata calon pelanggan
+- ingin punya website yang membantu closing
+- dan ingin membangun brand yang dipercaya
+
+Silakan hubungi saya.
+
+**Fachri**  
+Web Developer & Digital Partner  
+
+📩 Hubungi saya melalui:
+- WhatsApp  
+- Email  
+- atau DM
+
+Mari bangun website yang benar-benar bekerja untuk bisnis Anda.
